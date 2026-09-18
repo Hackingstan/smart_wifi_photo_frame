@@ -45,3 +45,12 @@ Install the following libraries via the Arduino IDE Library Manager:
 4. Connect your phone/PC to the "PHOTO-FRAME" WiFi network.
 5. Open a web browser and go to the IP address displayed on the TFT screen.
 6. Upload a photo and use the brightness slider!
+
+## 📸 Screenshots & Photos
+
+**Web App Interface:**
+![Web UI](./SS1.jpg)
+
+**Smart Frame Hardware:**
+![Hardware](./P1.jpg)
+![Hardware](./P2.jpg)
